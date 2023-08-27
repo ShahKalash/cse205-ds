@@ -1,3 +1,10 @@
+/*
+ * @lc app=leetcode id=344 lang=cpp
+ *
+ * [344] Reverse String
+ */
+
+// @lc code=start
 #include <bits/stdc++.h>
 using namespace std;
 class Solution

@@ -1,3 +1,10 @@
+/*
+ * @lc app=leetcode id=231 lang=cpp
+ *
+ * [231] Power Of Two
+ */
+
+// @lc code=start
 class Solution
 {
 public:
